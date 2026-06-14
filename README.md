@@ -11,9 +11,16 @@
 - HTML/CSS/JavaScript
 
 🚀 Projects:
-- Bhagiratha AI
-- Swasthya Sangam
-- ECommerceStore
-- Social-Media-Platform
+🌊 Bhagiratha AI
+Agentic AI platform for water forecasting and crisis management.
+
+💊 Swasthya Sangam
+AI-powered medicine interaction and safety recommendation platform.
+
+🛒 Ecommerce Store
+Full-stack e-commerce application built using Django.
+
+📱 Social Media Platform
+AI-powered student social networking platform.
 
 📫 LinkedIn: https://www.linkedin.com/in/kavana-g-3849462bb
