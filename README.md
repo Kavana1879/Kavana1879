@@ -13,5 +13,7 @@
 🚀 Projects:
 - Bhagiratha AI
 - Swasthya Sangam
+- ECommerceStore
+- Social-Media-Platform
 
 📫 LinkedIn: https://www.linkedin.com/in/kavana-g-3849462bb?
