@@ -16,4 +16,4 @@
 - ECommerceStore
 - Social-Media-Platform
 
-📫 LinkedIn: https://www.linkedin.com/in/kavana-g-3849462bb?
+📫 LinkedIn: https://www.linkedin.com/in/kavana-g-3849462bb
